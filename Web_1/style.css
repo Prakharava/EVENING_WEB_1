@@ -1,0 +1,33 @@
+.bg1{
+    background-size: cover;
+    min-height: 400px;
+    background-image: url(back3.jpeg);
+    background-repeat: no-repeat;
+}
+.image_1{
+    font-size: 24px;
+    padding: 12px 24px;
+    color: #fff;
+    background-color: #000;
+    letter-spacing: 10px;
+    text-align: center;
+}
+.w_center {
+    text-align: center !important;
+}
+.content {
+    display: block;
+    text-align: center;
+    padding: 5px 10px;
+}
+.col.my, .half {
+    width: 50%;
+}
+
+.padding-large {
+    padding: 12px 24px !important;
+}
+.col {
+    float: left;
+    width: 100%;
+}
